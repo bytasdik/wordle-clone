@@ -1,10 +1,10 @@
-# Maintainer: Your Name <your@email.com>
-pkgname=wordle
+# Maintainer: Tasdik <tasdik.me@gmail.com>
+pkgname=wordletui
 pkgver=1.0
 pkgrel=1
 pkgdesc="Terminal Wordle clone with ANSI colors"
 arch=('x86_64')
-license=('Unlicense')
+license=('MIT License')
 depends=('gcc-libs')
 makedepends=('gcc')
 
